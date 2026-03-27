@@ -34,4 +34,4 @@
 ## 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ismael_Cordon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
-[![Web](https://img.shields.io/badge/Web-icdominguez.com-080E22?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)]([https://mouredev.com](https://icdominguez.ddns.net/dev))
+[![Web](https://img.shields.io/badge/Web-icdominguez.com-080E22?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://icdominguez.ddns.net/dev)
