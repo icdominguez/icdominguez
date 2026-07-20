@@ -11,27 +11,31 @@
 
 ## 🔭 I'm currently working on ...
 
-🚀 Publishing my first freelance mobile application on app stores
+📝 Documenting my learning journey as a developer through weekly blog posts.
 
-📝 Designing and building a personal blog to share knowledge and insights
+🐾 Collaborating with entrepreneurs and developers on a large-scale pet care application.
 
-🐾 Collaborating with entrepreneurs and developers on a large-scale pet care application
+🚀 Studying AI to improve and speed up my workflow.
+
+💻 Self-hosting my entire tech-world.
 
 ## 🌱 I'm currently learning ...
 
 🍎 Diving into iOS development with Swift
 
+👨🏼‍💻 Freelancing world
+
 ## 💬 Ask me about
 
-* 💻 Software development, architecture or backend systems
+* 💻 Home server, Mobile Apps development
 * 🤝 Or just reach out if you want to connect
 
 ## 📊 Stats
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=icdominguez&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=icdominguez&layout=compact&theme=github_dark)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ismaelcordon&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ismaelcordon&layout=compact&theme=github_dark)
 
 ## 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ismael_Cordon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
-[![Web](https://img.shields.io/badge/Web-icdominguez.com-080E22?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://icdominguez.ddns.net/dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ismael_Cordon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ismael-cordon-dominguez)
+[![Web](https://img.shields.io/badge/Web-ismaelcordon.com-080E22?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://ismaelcordon.com)
